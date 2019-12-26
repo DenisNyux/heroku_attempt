@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "node ."
+    "start": "node index.js"
   },
   "name": "heroku",
   "version": "1.0.0",
