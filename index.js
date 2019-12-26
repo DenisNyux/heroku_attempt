@@ -1,6 +1,3 @@
-const http = require('http');
-
-
-http
+require('http')
     .Server((req, res) => res.end('Hello'))
-    .listen(9999, ()=> console.log(process.pid));
+    .listen(4312, ()=> console.log(process.pid));
