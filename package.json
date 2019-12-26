@@ -1,11 +1,14 @@
 {
   "scripts": {
-    "start": "node index.js"
+    "start": "node ."
   },
   "name": "heroku",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/DenisNyux/heroku_attempt.git",
   "author": "denis <denisn2000@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
