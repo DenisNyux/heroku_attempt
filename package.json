@@ -9,6 +9,6 @@
   "author": "denis <denisn2000@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
